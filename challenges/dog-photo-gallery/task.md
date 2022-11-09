@@ -8,4 +8,4 @@ Write a function that makes an API call to `https://dog.ceo/api/breeds/image/ran
 - Add 2 `<button>` and 1 `<ul>` element, either in the HTML or through JavaScript
 - When the button is clicked it should make an API call to `https://dog.ceo/api/breeds/image/random`
 - After receiving the data, append to the `<ul>` a `<li>` that contains an `<img>` element with the dog image
-- Incorporate error handling
+- hataIşlemeDahilEdin
